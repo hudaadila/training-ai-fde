@@ -71,4 +71,4 @@ The course runs in four phases. Weeks unlock on a schedule as the program progre
 
 ---
 
-_Built during the AI FDE Training. Lessons live at the [course site](https://akmalakhpah.github.io/training-ai-fde/)._# -iklil-training-ai-fde
+_Built during the AI FDE Training. Lessons live at the [course site](https://akmalakhpah.github.io/training-ai-fde/)._
